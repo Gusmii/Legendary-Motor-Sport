@@ -1,0 +1,12 @@
+[
+    { "id":"0","imgAnimal":"img/imagen1.jpg", "Nombre":"Grotti Visione", "Precio":"$2,250,000"},
+    { "id":"1","imgAnimal":"img/imagen2.jpg", "Nombre":"Progen T20", "Precio":"$2,200,000"},
+    { "id":"2","imgAnimal":"img/imagen3.jpg", "Nombre":"Truffade Adder", "Precio":"$1,000,000"}, 
+    { "id":"3","imgAnimal":"img/imagen4.jpg", "Nombre":"Pegassi Reaper", "Precio":"$1,595,000"},
+    { "id":"4","imgAnimal":"img/imagen5.jpg", "Nombre":"Grotti X80 Proto", "Precio":"$2,700,000"},
+    { "id":"5","imgAnimal":"img/imagen6.jpg", "Nombre":"Annis RE-7B", "Precio":"$2,475,000"},
+    { "id":"6","imgAnimal":"img/imagen7.jpg", "Nombre":"Pegassi Tempesta", "Precio":"$1,329,000"},
+    { "id":"7","imgAnimal":"img/imagen8.jpg", "Nombre":"Överflöd Tyrant", "Precio":"$2,515,000"},
+    { "id":"8","imgAnimal":"img/imagen9.jpg", "Nombre":"Pegassi Tezeract", "Precio":"$2,825,000"},
+    { "id":"9","imgAnimal":"img/imagen10.jpg","Nombre":"Dewbauchee Vagner", "Precio":"$1,535,000"}]
+
