@@ -8,5 +8,6 @@
     { "id":"6","img":"img/imagen7.jpg", "Nombre":"Pegassi Tempesta", "Precio":"$1,329,000"},
     { "id":"7","img":"img/imagen8.jpg", "Nombre":"Överflöd Tyrant", "Precio":"$2,515,000"},
     { "id":"8","img":"img/imagen9.jpg", "Nombre":"Pegassi Tezeract", "Precio":"$2,825,000"},
-    { "id":"9","img":"img/imagen10.jpg","Nombre":"Dewbauchee Vagner", "Precio":"$1,535,000"}]
+    { "id":"9","img":"img/imagen10.jpg","Nombre":"Dewbauchee Vagner", "Precio":"$1,535,000"}
+]
 
