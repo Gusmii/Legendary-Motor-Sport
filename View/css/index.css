@@ -37,18 +37,22 @@ background-position: center;
 
 #cars{
     display: flex !important;
-    flex-wrap: nowrap !important;
+    flex-wrap: wrap !important;
     flex-direction: row !important;
     justify-content: center !important;
 }
 
 .barra{
-    display: flex;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    flex-direction: row !important;
+    justify-content: center !important;
     margin: 1%;
     width: 98%;
     height: 10%;
-    align-items: center;
-    text-align: center;
+
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
 }
 
 /* Grid */
@@ -109,6 +113,10 @@ font: oblique bold 120% cursive;
 /* Acciones */
 
 a:hover{
+
+    /* Para cambiar el cursor al del juego original */
+
     color: black !important;
+    cursor:url('/View/img/Cursor.cur'), auto;	
 }
 
