@@ -51,8 +51,10 @@ background-position: center;
     width: 98%;
     height: 10%;
 
-    position: -webkit-sticky; /* Safari */
+    /* Para que la barra sea sticky */
+    position: -webkit-sticky; 
     position: sticky;
+    top: 0;
 }
 
 /* Grid */
